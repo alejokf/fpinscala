@@ -48,6 +48,8 @@ Chapter descriptions:
 * Chapter 14: localeffects
 * Chapter 15: streamingio
 
+Make sure the project is run with JRE 8
+
 To build the code for the first time, if on windows:
 
     $ .\sbt.cmd
